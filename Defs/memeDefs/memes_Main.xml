@@ -1,23 +1,23 @@
-  <MemeDef>
-    <defName>superSimps</defName>
+<?xml version="1.0" encoding="utf-8" ?> 
+<Defs>
+
+ <MemeDef>
+    <defName>ladyLake</defName>
     <label>the lady of the lake</label>
     <description>For the lady!.</description>
-    <iconPath>UI/memes/ladylake</iconPath>
+    <iconPath>UI/memes/ladyLake</iconPath>
     <groupDef>Misc</groupDef>
     <impact>3</impact>
-    <renderOrder>150</renderOrder>
+    <renderOrder>998</renderOrder>
     <requireOne>
       <li>
-        <li>Trees_Desired</li>
+        <li>lady_Worship</li>
       </li>
       <li>
-        <li>RoughLiving_Welcomed</li>
+        <li>ranged_Peasantry</li>
       </li>
       <li>
-        <li>Temperature_Tough</li>
-      </li>
-      <li>
-        <li>GauranlenConnection_Strong</li>
+        <li>dumbLabor_Peasantry</li>
       </li>
     </requireOne>
     <generalRules>
@@ -74,6 +74,7 @@
       </rules>
     </descriptionMaker>
     <startingResearchProjects>
-      <li>TreeSowing</li>
+      <li>Smithing</li>
     </startingResearchProjects>
   </MemeDef>
+</Defs>

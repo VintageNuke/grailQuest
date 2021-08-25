@@ -8,4 +8,10 @@
     <li>1.3</li>
   </supportedVersions>
   <description>Am I supposed to write something in here?</description>
+  <modDependencies>
+	<li>
+        <packageId>ludeon.rimworld.ideology</packageId>
+        <displayName>Ideology</displayName>
+    </li>
+  </modDependencies>
 </ModMetaData>

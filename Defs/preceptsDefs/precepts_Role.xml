@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  <!-- Issues -->
+  
+  <IssuesDef>
+    <defName>dumbPeasant</defName>
+	<label>Stratification</label>
+	<iconPath>UI/Issues/stratification</iconPath>
+  </IssuesDef>
+  
+  <PreceptDef>
+    <defName>dumbLabor_Peasantry</defName>
+  </PreceptDef>
+
+</Defs>
